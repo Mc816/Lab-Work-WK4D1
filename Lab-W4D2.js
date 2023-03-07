@@ -9,7 +9,7 @@ minusOne(Infinity)
 
 
 function makeSentence(word1, word2, word3){
-    console.log(word1 + word2 + word3)
+    console.log("Oh boy, do " + word1 + word2 + word3 + " or what?")
 }
 
 makeSentence("I ", "Want ", " Chimichanges")
